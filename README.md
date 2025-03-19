@@ -1539,6 +1539,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kodjo-Sarso Tetteh](https://github.com/Reggeditt)
   - [Kofi Quist](https://github.com/guytito)
   - [Kohei Leung](https://github.com/kohei0802)
+  - [Komathi](https://github.com/komathi-pandiyan)
   - [Kombaiya Mariappan](https://github.com/Kombaiya-MK)
   - [Kotaprolu Hemanth](https://github.com/hemanthkotaprolu)
   - [Kotesh Arya](https://github.com/kotesh-arya)
